@@ -43,6 +43,5 @@
     - [Translation](#translation)
   - [Weather](#weather)
   - [Web Browsing](#webbrowser)
-
   - [Credits](#credits)
 ---
