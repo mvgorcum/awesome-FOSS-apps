@@ -50,6 +50,7 @@
 ---
 ## App Stores
   * [F-Droid](https://f-droid.org/) - App store that only includes FOSS apps. Custom repositories can be added.
+  * Yalp Store - Downloads .apk files directly from Google Play. ([F-Droid](https://f-droid.org/packages/com.github.yeriomin.yalpstore/), [Source Code](https://github.com/yeriomin/YalpStore))
 
 ## Communication
 ### SMS
