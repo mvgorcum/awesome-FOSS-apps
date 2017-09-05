@@ -45,3 +45,46 @@
   - [Web Browsing](#webbrowser)
   - [Credits](#credits)
 ---
+## App Stores
+## Communication
+### SMS
+### E-Mail
+### Instant Messaging
+## Files
+### Backups
+### File manager
+### File Sync
+## Finance
+## Navigation
+### Maps
+### Public transportation
+## Media
+### Audiobooks
+### Camera
+### Podcasts
+### YouTube
+## Misc.
+## Networking
+### Torrenting
+### VPN
+## News
+### RSS
+## Notes
+## Organizing
+### Calendar
+#### Offline
+#### Online
+### Notes
+### Tasks
+## PDF
+## Security
+### Two-Factor Auth.
+### Password management
+## Social networks
+### Reddit
+## Tools
+### Keyboard
+### Translation
+## Weather
+## Web Browsing
+## Credits
