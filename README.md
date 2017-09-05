@@ -10,6 +10,7 @@
       - [Backups](#backups)
       - [File manager](#file-manager)
       - [File Sync](#file-sync)
+      - [Storage Tools](#storage-tools)
   - [Finance](#finance)
   - [Navigation](#navigation)
     - [Maps](#maps)
@@ -18,9 +19,9 @@
     - [Audio-/Videoplayer](#audio-videoplayer)
     - [Audiobooks](#audiobooks)
     - [Camera](#camera)
+    - [Games](#games)
     - [Podcasts](#podcasts)
     - [YouTube](#youtube)
-  - [Misc.](#misc)
   - [Networking](#networking)
     - [Torrenting](#torrenting)
     - [VPN](#vpn)
@@ -53,6 +54,7 @@
   * Yalp Store - Downloads .apk files directly from Google Play. ([F-Droid](https://f-droid.org/packages/com.github.yeriomin.yalpstore/), [Source Code](https://github.com/yeriomin/YalpStore))
 
 ## Communication
+
 ### SMS
   * QKSMS - SMS client with advanced features. ([F-Droid](https://f-droid.org/packages/com.moez.QKSMS/), [Source Code](https://github.com/qklabs/qksms)])
   * [Silence](https://silence.im/) - Fork of Signal, provides End-to-End encryption for SMS. ([F-Droid](https://f-droid.org/packages/org.smssecure.smssecure/), [Source Code](https://github.com/SilenceIM/Silence))
@@ -110,6 +112,7 @@
   * Feeder - RSS reader - works good with NewPipe, can import .opml files. ([F-Droid](https://f-droid.org/packages/com.nononsenseapps.feeder/), [Source Code](https://gitlab.com/spacecowboy/Feeder))
 
 ## Navigation
+
 ### Maps
   * [OsmAnd~](http://osmand.net/) - OpenStreetMap client. ([F-Droid](https://f-droid.org/packages/net.osmand.plus/), [Source Code](https://github.com/osmandapp/Osmand))
 
@@ -134,7 +137,9 @@
 ## Notes
 
 ## Organizing
+
 ### Calendar
+
 #### Offline
   * [Offline Calendar](https://www.schuermann.eu/android/) - Calendar app, completely offline. ([F-Droid](https://f-droid.org/packages/org.sufficientlysecure.localcalendar/), [Source Code](https://github.com/PrivacyApps/offline-calendar))
 
@@ -158,6 +163,7 @@
   * [Wi-Fi Privacy Police](http://www.brambonne.com/) - Prevents sending of known Wi-Fi networks. ([F-Droid](https://f-droid.org/packages/be.uhasselt.privacypolice/), [Source Code](https://github.com/BramBonne/privacypolice))
 
 ## Security
+
 ### Cryptography
   * [OpenKeychain](https://www.openkeychain.org/) - Provides OpenPGP security. ([F-Droid](https://www.openkeychain.org/), [Source Code](https://github.com/openpgp-keychain/openpgp-keychain))
 
