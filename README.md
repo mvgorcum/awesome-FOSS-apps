@@ -46,9 +46,14 @@
   - [Credits](#credits)
 ---
 ## App Stores
+  * [F-Droid](https://f-droid.org/) - App store that only includes FOSS apps. Custom repositories can be added.
+
 ## Communication
 ### SMS
+  * [Silence](https://silence.im/) - Fork of Signal, provides End-to-End encryption for SMS. ([F-Droid](https://f-droid.org/packages/org.smssecure.smssecure/), [Source Code](https://github.com/SilenceIM/Silence))
+
 ### E-Mail
+  * [K-9 Mail](https://k9mail.github.io/) - Advanced E-Mail Client. Supports PGP with OpenKeychain. ([F-Droid](https://f-droid.org/packages/com.fsck.k9/), [Source Code](https://github.com/k9mail/k-9))
 ### Instant Messaging
 ## Files
 ### Backups
