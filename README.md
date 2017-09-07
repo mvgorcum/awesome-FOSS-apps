@@ -180,6 +180,7 @@
   * Twidere - Microblogging / twitter.com client. ([F-Droid](https://f-droid.org/packages/org.mariotaku.twidere/), [Source Code](https://github.com/TwidereProject/Twidere-Android))
 
 ### Reddit
+  * RedReader - Easy-to-use reddit frontend. ([F-Droid](https://f-droid.org/packages/org.quantumbadger.redreader/), [Source Code](https://github.com/QuantumBadger/RedReader))
   * Slide - Advanced app for reddit. ([F-Droid](https://f-droid.org/packages/me.ccrama.redditslide/), [Source Code](https://github.com/ccrama/Slide))
 
 ## Tools
