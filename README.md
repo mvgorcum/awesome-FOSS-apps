@@ -75,6 +75,7 @@
 
 ### File manager
   * [Amaze](https://plus.google.com/communities/113997576965363268101) - Material design based file manager. - ([F-Droid](https://f-droid.org/packages/com.amaze.filemanager/), [Source Code](https://github.com/arpitkh96/AmazeFileManager))
+* [Ghost Commander](https://sites.google.com/site/ghostcommander1/) - Dual panel file manager, allows for plugins for SMB and FTP ([F-Droid](https://f-droid.org/packages/com.ghostsq.commander/), [Source Code](https://sourceforge.net/p/ghostcommander/code/HEAD/tree/))
 
 ### File Sync
   * [Syncthing](https://syncthing.net/) - P2P file synchronization. ([F-Droid](https://f-droid.org/packages/com.nutomic.syncthingandroid/), [Source Code](https://github.com/syncthing/syncthing-android))
